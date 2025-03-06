@@ -19,7 +19,7 @@ You can view the full process in the Jupyter Notebook [here](xxxxx).
 
 
 ## Dataset Used
-The dataset used in this project is originally sourced from Kaggle and cleaned using Python. You can access it [here]([xxxxx](https://github.com/Lillian1070/showcase_python_dataCleaning_1)).
+The dataset used in this project is originally sourced from Kaggle and cleaned using Python. You can access it [here]([https://github.com/Lillian1070/showcase_python_dataCleaning_1]).
 
 ## Libraries Used
 - **Matplotlib**: For data visualization, including plotting graphs like histograms, scatter plots, etc.
