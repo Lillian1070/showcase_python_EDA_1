@@ -12,8 +12,12 @@
 ## Project Overview
 This project demonstrates Exploratory Data Analysis (EDA) techniques using Python. The main focus is to uncover patterns, trends, and insights in the dataset. The EDA involves:
 
-- xxxxx
-
+- Visualizing the data (covering univariate / bivariate analysis & categorical data distribution)
+- Feature engineering (if needed)
+- Identifying patterns or trends
+- Investigating feature importance
+- Checking assumptions
+  
 You can view the full process in the Jupyter Notebook in this repo [here](xxxxx). 
 
 
