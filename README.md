@@ -18,7 +18,7 @@ This project demonstrates Exploratory Data Analysis (EDA) techniques using Pytho
 - Investigating feature importance
 - Visualizing summary statistics for both numerical and categorical data
 
-You can view the full process in the Jupyter Notebook [here](xxxxx). 
+You can view the full process in the Jupyter Notebook in this repo [here](xxxxx). 
 
 
 ## Dataset Used
