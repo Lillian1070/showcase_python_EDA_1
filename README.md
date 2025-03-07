@@ -36,12 +36,10 @@ These findings provide a clearer picture of the dataset and its relationships, p
 
 
 ## Libraries Used
-- **Matplotlib**: For data visualization, including plotting graphs like histograms, scatter plots, etc.
-- **Seaborn**: For statistical data visualization and enhanced graphical representations. Used for heatmaps, pair plots, and correlation matrices to reveal deeper patterns in the data
 - **Pandas**: For handling and manipulating the dataset, such as summarizing data, filtering, and grouping
 - **Numpy**: For numerical operations like handling arrays and computing statistical measures
-- **Scikit-learn**: For calculating and visualizing feature importance and applying statistical methods like correlation coefficients
-
+- **Matplotlib**: For data visualization, including plotting graphs like histograms, scatter plots, etc.
+- **Seaborn**: For statistical data visualization and enhanced graphical representations. Used for heatmaps, pair plots, and correlation matrices to reveal deeper patterns in the data
 
 
 
