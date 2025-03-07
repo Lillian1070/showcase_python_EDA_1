@@ -9,7 +9,7 @@
 
 
 ## Project Overview
-This project demonstrates essential EDA techniques using Python libraries such as `xxxx`. The dataset is processed through several preprocessing steps, including:
+This project demonstrates exploratory data analysis (EDA) techniques using Python libraries such as `xxxx`. The dataset is processed through several preprocessing steps, including:
 
 - xxxxxxx
 
