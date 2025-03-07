@@ -22,7 +22,7 @@ You can view the full process in the Jupyter Notebook [here](xxxxx).
 
 
 ## Dataset Used
-The dataset used in this project was sourced from [Kaggle](https://www.kaggle.com/datasets/fatihb/coffee-quality-data-cqi) and has been cleaned using Python in a separate [data cleaning project](https://github.com/Lillian1070/showcase_python_dataCleaning_1). The cleaned dataset includes coffee samples from the Coffee Quality Institute (CQI), and it is characterized by features such as country of origin, company, altitude, harvest year, processing method, sensory attributes, moisture percentage, category one and two defects, color, expiration, certification body, and more. It contains 206 rows and provides insights into the relationship between these features and coffee quality trends. You can access the cleaned dataset [here](https://github.com/Lillian1070/showcase_python_dataCleaning_1/blob/main/cleaned_dataset.csv).
+The dataset used in this project was sourced from [Kaggle](https://www.kaggle.com/datasets/fatihb/coffee-quality-data-cqi) and has been cleaned using Python in a separate [data cleaning project](https://github.com/Lillian1070/showcase_python_dataCleaning_1). The cleaned dataset includes coffee samples from the Coffee Quality Institute (CQI), and it is characterized by features such as country of origin, company, altitude, harvest year, processing method, sensory attributes, moisture percentage, defects, color, expiration, certification body, and more. It contains 206 rows and provides insights into the relationship between these features and coffee quality trends. You can access the cleaned dataset [here](https://github.com/Lillian1070/showcase_python_dataCleaning_1/blob/main/cleaned_dataset.csv).
 
 
 ## Key Findings
