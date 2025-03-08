@@ -18,7 +18,7 @@ This project demonstrates Exploratory Data Analysis (EDA) techniques using Pytho
 - Investigating feature importance
 - Checking assumptions
   
-You can view the full process in the Jupyter Notebook in this repo [here](xxxxx). 
+You can view the full process in the Jupyter Notebook in this repo [here](https://github.com/Lillian1070/showcase_python_EDA_1/blob/main/kaggle_coffeeBean_EDA.ipynb). 
 
 
 ## Dataset Used
