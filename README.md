@@ -1,4 +1,4 @@
-# EDA with Python
+# Exploratory Data Analysis (EDA) with Python
 
 
 ### Outline
