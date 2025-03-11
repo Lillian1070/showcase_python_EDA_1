@@ -10,13 +10,20 @@
 
 
 ## Project Overview
-This project demonstrates Exploratory Data Analysis (EDA) techniques using Python. The main focus is to uncover patterns, trends, and insights in the dataset. The EDA involves:
+This project demonstrates Exploratory Data Analysis (EDA) techniques using Python. The main focus is to uncover patterns, trends, and insights in the dataset. The key elements of the EDA include:
 
 - Data visualization (covering univariate, bivariate, and geospatial analysis)
 - Feature engineering
 - Identifying patterns and trends
 - Investigating feature importance
 - Checking assumptions
+
+Summary focus areas for EDA:
+
+- Explore Relationships with Total Cup Points
+- Examine Linear/Non-Linear Patterns
+- Clustering Analysis
+
   
 You can view the full process in the Jupyter Notebook in this repo [here](https://github.com/Lillian1070/showcase_python_EDA_1/blob/main/kaggle_coffeeBean_EDA.ipynb). 
 
