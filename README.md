@@ -20,7 +20,7 @@ This project demonstrates Exploratory Data Analysis (EDA) techniques using Pytho
 
 Summary focus areas for EDA:
 
-- Explore Relationships with Total Cup Points
+- Explore Relationships with `Total Cup Points`
 - Examine Linear/Non-Linear Patterns
 - Clustering Analysis
 
@@ -35,9 +35,9 @@ The dataset used in this project was sourced from [Kaggle](https://www.kaggle.co
 ## Key Findings
 Throughout the exploratory analysis, the following key insights were uncovered:
 
-- [Insight 1]: [Brief description of insight and its significance]
-- [Insight 2]: [Brief description of insight and its significance]
-- [Insight 3]: [Brief description of insight and its significance]
+- Relationships with Total Cup Points: [Brief description of insight and its significance]
+- Non-Linear Patterns: [Brief description of insight and its significance]
+- Clustering: [Brief description of insight and its significance]
 
 These findings provide a clearer picture of the dataset and its relationships, paving the way for more advanced analysis or predictive modeling.
 
