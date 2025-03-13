@@ -51,8 +51,9 @@ These findings provide a clearer picture of the dataset and its relationships, p
 
 
 
-# Further Directions
-- xxx
+## Further Directions
+- Non-Linear Modeling
+- Clustering
 
 
 💬 _I’d love to hear your thoughts! If you have any suggestions or questions, feel free to connect with me._
