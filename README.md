@@ -52,10 +52,9 @@ These findings provide a clearer picture of the dataset and its relationships, p
 
 
 ## Further Directions
-- Clustering Analysis
-- Non-Linear Modeling
-- Further Feature Engineering
-
+- **Clustering Analysis**: Grouping coffee samples based on both sensory and non-sensory features could uncover hidden patterns. This may provide insights into quality segmentation.
+- **Non-Linear Models**: Since linear regression assumes a straight-line relationship, experimenting with Random Forests, Gradient Boosting, or Polynomial Regression could capture more complex interactions in the data.
+- **Feature Engineering**: Creating new features (e.g., binning altitude, interaction terms) might help improve predictive power.
 
 
 💬 _I’d love to hear your thoughts! If you have any suggestions or questions, feel free to connect with me._
