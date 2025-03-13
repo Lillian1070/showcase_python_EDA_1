@@ -22,7 +22,8 @@ This project demonstrates Exploratory Data Analysis (EDA) techniques using Pytho
 Focus areas for EDA:
 
 - Explore Relationships with `Total Cup Points`
-- Examine Linear/Non-Linear Patterns
+- Examine Data Patterns
+- Assess Linear Regression Feasibility 
 
 
   
