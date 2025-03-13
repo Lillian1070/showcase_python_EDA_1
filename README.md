@@ -7,12 +7,13 @@
 - Dataset Used
 - Key Findings
 - Libraries Used
+- Further Directions
 
 
 ## Project Overview
 This project demonstrates Exploratory Data Analysis (EDA) techniques using Python. The main focus is to uncover patterns, trends, and insights in the dataset. The key elements of the EDA include:
 
-- Data visualization (covering univariate, bivariate, and geospatial analysis)
+- Data visualization (covering univariate analysis, bivariate analysis, etc.)
 - Feature engineering
 - Identifying patterns and trends
 - Investigating feature importance
@@ -22,7 +23,7 @@ Focus areas for EDA:
 
 - Explore Relationships with `Total Cup Points`
 - Examine Linear/Non-Linear Patterns
-- Clustering Analysis
+
 
   
 You can view the full process in the Jupyter Notebook in this repo [here](https://github.com/Lillian1070/showcase_python_EDA_1/blob/main/kaggle_coffeeBean_EDA.ipynb). 
@@ -36,8 +37,8 @@ The dataset used in this project was sourced from [Kaggle](https://www.kaggle.co
 Throughout the exploratory analysis, the following key insights were uncovered:
 
 - **Relationships with `Total Cup Points`**: [Brief description of insight and its significance]
-- **Non-Linear Patterns**: [Brief description of insight and its significance]
-- **Clustering**: [Brief description of insight and its significance]
+- **Linear & Non-Linear Patterns**: [Brief description of insight and its significance]
+
 
 These findings provide a clearer picture of the dataset and its relationships, paving the way for more advanced analysis or predictive modeling.
 
@@ -50,6 +51,8 @@ These findings provide a clearer picture of the dataset and its relationships, p
 
 
 
+# Further Directions
+- xxx
 
 
 💬 _I’d love to hear your thoughts! If you have any suggestions or questions, feel free to connect with me._
