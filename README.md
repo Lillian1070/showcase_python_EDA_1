@@ -52,8 +52,10 @@ These findings provide a clearer picture of the dataset and its relationships, p
 
 
 ## Further Directions
+- Clustering Analysis
 - Non-Linear Modeling
-- Clustering
+- Further Feature Engineering
+
 
 
 💬 _I’d love to hear your thoughts! If you have any suggestions or questions, feel free to connect with me._
