@@ -38,7 +38,8 @@ The dataset used in this project was sourced from [Kaggle](https://www.kaggle.co
 Throughout the exploratory analysis, the following key insights were uncovered:
 
 - **Relationships with `Total Cup Points`**: [Brief description of insight and its significance]
-- **Linear & Non-Linear Patterns**: [Brief description of insight and its significance]
+- **Linear / Non-Linear Patterns**: [Brief description of insight and its significance]
+- **Model Interpretations**: [Brief description of insight and its significance]
 
 
 These findings provide a clearer picture of the dataset and its relationships, paving the way for more advanced analysis or predictive modeling.
