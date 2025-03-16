@@ -8,23 +8,22 @@
 - Key Findings
 - Libraries Used
 - Further Directions
-
+Import libraries
+Load and read cleaned dataset
+Explore dataset
+Feature engineering (if needed)
+Check assumptions & insights
+Save dataset for analysis
+Future Research Directions
 
 ## Project Overview
 This project demonstrates Exploratory Data Analysis (EDA) techniques using Python. The main focus is to uncover patterns, trends, and insights in the dataset. The key elements of the EDA include:
 
 - Data visualization (covering univariate analysis, bivariate analysis, etc.)
-- Feature engineering
 - Identifying patterns and trends
+- Feature engineering
 - Investigating feature importance
 - Checking assumptions
-
-Focus areas for EDA:
-
-- Explore Relationships with `Total Cup Points`
-- Examine Data Patterns
-- Assess Linear Regression Feasibility 
-
 
   
 You can view the full process in the Jupyter Notebook in this repo [here](https://github.com/Lillian1070/showcase_python_EDA_1/blob/main/kaggle_coffeeBean_EDA.ipynb). 
@@ -37,9 +36,11 @@ The dataset used in this project was sourced from [Kaggle](https://www.kaggle.co
 ## Key Findings
 Throughout the exploratory analysis, the following key insights were uncovered:
 
-- **Relationships with `Total Cup Points`**: [Brief description of insight and its significance]
-- **Linear / Non-Linear Patterns**: [Brief description of insight and its significance]
-- **Model Interpretations**: [Brief description of insight and its significance]
+- **Model Fit**: Explains 18.7% of the variance in Total Cup Points (R-squared = 0.187). Significant predictors include log_Cat_2_Defects, Region_New_Americas, and Region_New_Asia.
+- **Insights**:
+  - Higher Category 2 defects reduce quality by 0.54 points per unit increase in the log scale.
+  - Coffees from the Americas and Asia score 1.40 and 1.11 points lower than African coffees.
+  - Quadratic effects of altitude and quakers are weakly significant (p=0.054, p=0.066).
 
 
 These findings provide a clearer picture of the dataset and its relationships, paving the way for more advanced analysis or predictive modeling.
