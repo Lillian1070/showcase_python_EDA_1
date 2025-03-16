@@ -46,14 +46,14 @@ These findings provide a clearer picture of the dataset and its relationships, p
 
 
 ## Libraries Used
-- **Pandas** (`pd`): Load and manipulate the coffee dataset.
-- **NumPy** (`np`): Perform numerical operations like log transformations.
-- **Matplotlib** (`plt`): Plot diagnostic charts (e.g., residuals, histograms).
-- **Seaborn** (`sns`): Create statistical visualizations (e.g., correlation heatmaps).
-- **SciPy** (`stats`): Conduct statistical tests (e.g., ANOVA, normality).
-- **Statsmodels** (`statsmodels`): Perform autocorrelation (Breusch-Godfrey, Durbin-Watson), homoscedasticity (Breusch-Pagan), and multicollinearity (VIF) tests.
-- **Statsmodels** (`sm`, `ols`): Build and diagnose regression models.
-- **Scikit-learn** (`LinearRegression`): Implement linear regression.
+- **Pandas**: Load and manipulate the coffee dataset.
+- **NumPy**: Perform numerical operations like log transformations.
+- **Matplotlib**: Plot diagnostic charts (e.g., residuals, histograms).
+- **Seaborn**: Create statistical visualizations (e.g., correlation heatmaps).
+- **SciPy** : Conduct statistical tests (e.g., ANOVA, normality).
+- **Statsmodels**: Perform autocorrelation (Breusch-Godfrey, Durbin-Watson), homoscedasticity (Breusch-Pagan), and multicollinearity (VIF) tests.
+- **Statsmodels**: Build and diagnose regression models.
+- **Scikit-learn**: Implement linear regression.
 
 
 ## Further Directions
