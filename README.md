@@ -8,13 +8,7 @@
 - Key Findings
 - Libraries Used
 - Further Directions
-Import libraries
-Load and read cleaned dataset
-Explore dataset
-Feature engineering (if needed)
-Check assumptions & insights
-Save dataset for analysis
-Future Research Directions
+
 
 ## Project Overview
 This project demonstrates Exploratory Data Analysis (EDA) techniques using Python. The main focus is to uncover patterns, trends, and insights in the dataset. The key elements of the EDA include:
