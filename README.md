@@ -46,11 +46,14 @@ These findings provide a clearer picture of the dataset and its relationships, p
 
 
 ## Libraries Used
-- **Pandas**: For handling and manipulating the dataset, such as summarizing data, filtering, and grouping
-- **Numpy**: For numerical operations like handling arrays and computing statistical measures
-- **Matplotlib**: For data visualization, including plotting graphs like histograms, scatter plots, etc.
-- **Seaborn**: For statistical data visualization and enhanced graphical representations. Used for heatmaps, pair plots, and correlation matrices to reveal deeper patterns in the data
-
+- **Pandas** (`pd`): Load and manipulate the coffee dataset.
+- **NumPy** (`np`): Perform numerical operations like log transformations.
+- **Matplotlib** (`plt`): Plot diagnostic charts (e.g., residuals, histograms).
+- **Seaborn** (`sns`): Create statistical visualizations (e.g., correlation heatmaps).
+- **SciPy** (`stats`): Conduct statistical tests (e.g., ANOVA, normality).
+- **Statsmodels** (`statsmodels`): Perform autocorrelation (Breusch-Godfrey, Durbin-Watson), homoscedasticity (Breusch-Pagan), and multicollinearity (VIF) tests.
+- **Statsmodels** (`sm`, `ols`): Build and diagnose regression models.
+- **Scikit-learn** (`LinearRegression`): Implement linear regression.
 
 
 ## Further Directions
