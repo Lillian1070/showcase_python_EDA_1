@@ -30,7 +30,7 @@ The dataset used in this project was sourced from [Kaggle](https://www.kaggle.co
 ## Key Findings
 Throughout the exploratory analysis, the following key insights were uncovered:
 
-- **Model Fit**: Explains 18.7% of the variance in Total Cup Points (R-squared = 0.187). Significant predictors include log_Cat_2_Defects, Region_New_Americas, and Region_New_Asia.
+- **Model Fit**: Explains 18.7% of the variance in Total Cup Points (R-squared = 0.187). Significant predictors include `log_Cat_2_Defects`, `Region_New_America`, and `Region_New_Asia`.
 - **Insights**:
   - Higher category 2 defects reduce quality by 0.54 points per unit increase in the log scale.
   - Coffees from the Americas and Asia score 1.40 and 1.11 points lower than African coffees.
