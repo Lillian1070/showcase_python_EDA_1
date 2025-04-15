@@ -1,8 +1,5 @@
 # Exploratory Data Analysis (EDA) with Python
 
-
-### Outline
-
 - [Project Overview](#section-1)
 - [Dataset Used](#section-2)
 - [Key Findings](#section-3)
